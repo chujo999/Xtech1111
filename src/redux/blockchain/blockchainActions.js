@@ -1,4 +1,4 @@
-// constantss
+// constants
 import Web3 from "web3"
 import SmartContract from "../../contracts/SmartContract.json";
 // log
